@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-csv-1.10.0">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Libraries/Libraries/commons-csv-1.10.0-bin.zip!/commons-csv-1.10.0/apidocs" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
